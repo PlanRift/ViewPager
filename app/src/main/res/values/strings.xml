@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BelajarViewPager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="content_tab_home">Home Fragment</string>
+    <string name="tab_text_home">Home</string>
+
+    <string name="content_tab_profile">Profile Fragment</string>
+    <string name="tab_text_profile">Profile</string>
+
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="tab_text_settings">Settings</string>
+</resources>
